@@ -1,4 +1,4 @@
-Here are some codes about the creation of tp5 file, which is the necessary input file in MODerate resolution atmospheric TRANsmission (MODTRAN).
+Here are some codes about the creation of tp5 file, which is the necessary input file in [MODerate resolution atmospheric TRANsmission](http://modtran.spectral.com/).
 
 create_cards.py: creation of CARD 1-5
 read_profiles.py: read atmospheric profiles (such as tempearture and moisture), then feed into CARD 2C
