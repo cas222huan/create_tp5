@@ -1,4 +1,4 @@
-Here are some codes about the creation of tp5 file, which is the necessary input file in [MODerate resolution atmospheric TRANsmission](http://modtran.spectral.com/).
+Here are some codes about the creation of tp5 file, which is the necessary input file for [MODerate resolution atmospheric TRANsmission](http://modtran.spectral.com/).
 
 Descriptions of files:  
 create_cards.py: creation of CARD 1-5  
